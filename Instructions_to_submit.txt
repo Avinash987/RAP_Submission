@@ -1,0 +1,5 @@
+1. The solutions to the problem should be coded in Python.
+2. Please create a repository in github(https://github.com/) repo and upload all your solutions. The URL of this repository should be submitted.
+3. Sending all the solutions in email will not be entertained and not accepted.
+4. Adding unit tests would fetch you more merits.
+5. We expect your answers to be your own and not borrowed/copied. We appreciate sincerity and honest responses. :)
